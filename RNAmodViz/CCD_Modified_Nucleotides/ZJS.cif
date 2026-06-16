@@ -1,0 +1,190 @@
+data_ZJS
+#
+
+_chem_comp.id                                   ZJS
+_chem_comp.name                                 "N-(3-methylbut-2-en-1-yl)adenosine 5'-(dihydrogen phosphate)"
+_chem_comp.type                                 non-polymer
+_chem_comp.pdbx_type                            HETAIN
+_chem_comp.formula                              "C15 H22 N5 O7 P"
+_chem_comp.mon_nstd_parent_comp_id              ?
+_chem_comp.pdbx_synonyms                        ?
+_chem_comp.pdbx_formal_charge                   0
+_chem_comp.pdbx_initial_date                    2021-04-30
+_chem_comp.pdbx_modified_date                   2021-09-10
+_chem_comp.pdbx_ambiguous_flag                  N
+_chem_comp.pdbx_release_status                  REL
+_chem_comp.pdbx_replaced_by                     ?
+_chem_comp.pdbx_replaces                        ?
+_chem_comp.formula_weight                       415.338
+_chem_comp.one_letter_code                      ?
+_chem_comp.three_letter_code                    ZJS
+_chem_comp.pdbx_model_coordinates_details       ?
+_chem_comp.pdbx_model_coordinates_missing_flag  N
+_chem_comp.pdbx_ideal_coordinates_details       Corina
+_chem_comp.pdbx_ideal_coordinates_missing_flag  N
+_chem_comp.pdbx_model_coordinates_db_code       7MJV
+_chem_comp.pdbx_subcomponent_list               ?
+_chem_comp.pdbx_processing_site                 RCSB
+#   #
+loop_
+_chem_comp_atom.comp_id
+_chem_comp_atom.atom_id
+_chem_comp_atom.alt_atom_id
+_chem_comp_atom.type_symbol
+_chem_comp_atom.charge
+_chem_comp_atom.pdbx_align
+_chem_comp_atom.pdbx_aromatic_flag
+_chem_comp_atom.pdbx_leaving_atom_flag
+_chem_comp_atom.pdbx_stereo_config
+_chem_comp_atom.model_Cartn_x
+_chem_comp_atom.model_Cartn_y
+_chem_comp_atom.model_Cartn_z
+_chem_comp_atom.pdbx_model_Cartn_x_ideal
+_chem_comp_atom.pdbx_model_Cartn_y_ideal
+_chem_comp_atom.pdbx_model_Cartn_z_ideal
+_chem_comp_atom.pdbx_component_atom_id
+_chem_comp_atom.pdbx_component_comp_id
+_chem_comp_atom.pdbx_ordinal
+ZJS  P      P1   P  0  1  N  N  N  20.451   4.051  111.419   6.045   1.745   0.143  P      ZJS   1  
+ZJS  OP1    O1   O  0  1  N  N  N  21.925   4.554  111.269   7.394   0.968  -0.264  OP1    ZJS   2  
+ZJS  OP2    O2   O  0  1  N  N  N  19.592   3.659  110.186   5.655   2.663  -0.951  OP2    ZJS   3  
+ZJS  "O5'"  O3   O  0  1  N  N  N  20.440   2.871  112.482   4.866   0.678   0.394  "O5'"  ZJS   4  
+ZJS  "C5'"  C1   C  0  1  N  N  N  19.631   1.724  112.270   4.335  -0.153  -0.640  "C5'"  ZJS   5  
+ZJS  "C4'"  C2   C  0  1  N  N  R  18.685   1.452  113.416   3.234  -1.045  -0.063  "C4'"  ZJS   6  
+ZJS  "O4'"  O4   O  0  1  N  N  N  19.426   1.075  114.605   2.075  -0.255   0.279  "O4'"  ZJS   7  
+ZJS  "C3'"  C3   C  0  1  N  N  S  17.773   2.607  113.819   2.732  -2.039  -1.133  "C3'"  ZJS   8  
+ZJS  "O3'"  O5   O  0  1  N  N  N  16.448   2.116  113.962   3.353  -3.315  -0.962  "O3'"  ZJS   9  
+ZJS  "C2'"  C4   C  0  1  N  N  R  18.306   3.032  115.183   1.212  -2.138  -0.870  "C2'"  ZJS  10  
+ZJS  "O2'"  O6   O  0  1  N  N  N  17.333   3.571  116.060   0.849  -3.477  -0.529  "O2'"  ZJS  11  
+ZJS  "C1'"  C5   C  0  1  N  N  R  18.883   1.730  115.721   0.976  -1.191   0.327  "C1'"  ZJS  12  
+ZJS  N9     N1   N  0  1  Y  N  N  19.942   1.963  116.704  -0.300  -0.488   0.178  N9     ZJS  13  
+ZJS  C8     C6   C  0  1  Y  N  N  21.109   2.531  116.423  -0.489   0.723  -0.419  C8     ZJS  14  
+ZJS  N7     N2   N  0  1  Y  N  N  21.826   2.610  117.584  -1.749   1.048  -0.376  N7     ZJS  15  
+ZJS  C5     C7   C  0  1  Y  N  N  21.064   2.089  118.584  -2.446   0.069   0.250  C5     ZJS  16  
+ZJS  C6     C8   C  0  1  Y  N  N  21.337   1.940  119.925  -3.798  -0.125   0.580  C6     ZJS  17  
+ZJS  N6     N3   N  0  1  N  N  N  22.609   2.403  120.354  -4.751   0.822   0.248  N6     ZJS  18  
+ZJS  N1     N4   N  0  1  Y  N  N  20.409   1.391  120.746  -4.141  -1.240   1.216  N1     ZJS  19  
+ZJS  C2     C9   C  0  1  Y  N  N  19.235   1.002  120.231  -3.239  -2.150   1.536  C2     ZJS  20  
+ZJS  N3     N5   N  0  1  Y  N  N  18.967   1.144  118.884  -1.962  -2.010   1.249  N3     ZJS  21  
+ZJS  C4     C10  C  0  1  Y  N  N  19.900   1.697  118.066  -1.526  -0.930   0.608  C4     ZJS  22  
+ZJS  C12    C11  C  0  1  N  N  N  23.252   2.015  121.668  -6.156   0.602   0.599  C12    ZJS  23  
+ZJS  C13    C12  C  0  1  N  N  N  23.293   0.442  121.774  -6.981   1.773   0.130  C13    ZJS  24  
+ZJS  C14    C13  C  0  1  N  N  N  24.552  -0.027  121.762  -8.036   1.572  -0.620  C14    ZJS  25  
+ZJS  C15    C14  C  0  1  N  N  N  24.792  -1.623  121.648  -8.761   2.745  -1.230  C15    ZJS  26  
+ZJS  C16    C15  C  0  1  N  N  N  25.729   0.883  121.857  -8.525   0.170  -0.873  C16    ZJS  27  
+ZJS  O1     O7   O  0  1  N  Y  N  19.603   5.210  112.141   6.298   2.592   1.489  O1     ZJS  28  
+ZJS  H1     H1   H  0  1  N  N  N  22.163   4.568  110.349   7.709   0.348   0.408  H1     ZJS  29  
+ZJS  H2     H2   H  0  1  N  N  N  19.040   1.876  111.355   3.920   0.472  -1.431  H2     ZJS  30  
+ZJS  H3     H3   H  0  1  N  N  N  20.287   0.851  112.142   5.130  -0.776  -1.049  H3     ZJS  31  
+ZJS  H4     H4   H  0  1  N  N  N  18.042   0.609  113.125   3.601  -1.582   0.812  H4     ZJS  32  
+ZJS  H5     H5   H  0  1  N  N  N  17.841   3.433  113.095   2.924  -1.653  -2.134  H5     ZJS  33  
+ZJS  H6     H6   H  0  1  N  N  N  15.871   2.828  114.213   3.074  -3.978  -1.608  H6     ZJS  34  
+ZJS  H7     H7   H  0  1  N  N  N  19.126   3.750  115.035   0.651  -1.799  -1.741  H7     ZJS  35  
+ZJS  H8     H8   H  0  1  N  N  N  17.745   3.809  116.882   1.033  -4.124  -1.224  H8     ZJS  36  
+ZJS  H9     H9   H  0  1  N  N  N  18.075   1.135  116.171   0.995  -1.750   1.263  H9     ZJS  37  
+ZJS  H10    H10  H  0  1  N  N  N  21.434   2.870  115.450   0.291   1.323  -0.863  H10    ZJS  38  
+ZJS  H11    H11  H  0  1  N  N  N  23.254   2.122  119.643  -4.488   1.632  -0.217  H11    ZJS  39  
+ZJS  H12    H12  H  0  1  N  N  N  18.487   0.571  120.879  -3.561  -3.041   2.054  H12    ZJS  40  
+ZJS  H13    H13  H  0  1  N  N  N  24.276   2.414  121.710  -6.512  -0.309   0.118  H13    ZJS  41  
+ZJS  H14    H14  H  0  1  N  N  N  22.664   2.426  122.502  -6.249   0.503   1.681  H14    ZJS  42  
+ZJS  H15    H15  H  0  1  N  N  N  22.415  -0.183  121.847  -6.701   2.778   0.411  H15    ZJS  43  
+ZJS  H18    H18  H  0  1  N  N  N  25.872  -1.833  121.652  -8.334   2.967  -2.208  H18    ZJS  44  
+ZJS  H19    H19  H  0  1  N  N  N  24.317  -2.127  122.503  -9.817   2.500  -1.342  H19    ZJS  45  
+ZJS  H20    H20  H  0  1  N  N  N  24.350  -1.994  120.712  -8.656   3.614  -0.581  H20    ZJS  46  
+ZJS  H21    H21  H  0  1  N  N  N  25.383   1.925  121.927  -7.940  -0.532  -0.278  H21    ZJS  47  
+ZJS  H22    H22  H  0  1  N  N  N  26.316   0.631  122.752  -9.576   0.095  -0.593  H22    ZJS  48  
+ZJS  H23    H23  H  0  1  N  N  N  26.357   0.765  120.962  -8.413  -0.069  -1.931  H23    ZJS  49  
+ZJS  H24    H24  H  0  1  N  Y  N  18.804   5.370  111.652   6.997   3.255   1.411  H24    ZJS  50  
+#   #
+loop_
+_chem_comp_bond.comp_id
+_chem_comp_bond.atom_id_1
+_chem_comp_bond.atom_id_2
+_chem_comp_bond.value_order
+_chem_comp_bond.pdbx_aromatic_flag
+_chem_comp_bond.pdbx_stereo_config
+_chem_comp_bond.pdbx_ordinal
+ZJS  OP2    P      DOUB  N  N   1  
+ZJS  OP1    P      SING  N  N   2  
+ZJS  P      "O5'"  SING  N  N   3  
+ZJS  "C5'"  "O5'"  SING  N  N   4  
+ZJS  "C5'"  "C4'"  SING  N  N   5  
+ZJS  "C4'"  "C3'"  SING  N  N   6  
+ZJS  "C4'"  "O4'"  SING  N  N   7  
+ZJS  "C3'"  "O3'"  SING  N  N   8  
+ZJS  "C3'"  "C2'"  SING  N  N   9  
+ZJS  "O4'"  "C1'"  SING  N  N  10  
+ZJS  "C2'"  "C1'"  SING  N  N  11  
+ZJS  "C2'"  "O2'"  SING  N  N  12  
+ZJS  "C1'"  N9     SING  N  N  13  
+ZJS  C8     N9     SING  Y  N  14  
+ZJS  C8     N7     DOUB  Y  N  15  
+ZJS  N9     C4     SING  Y  N  16  
+ZJS  N7     C5     SING  Y  N  17  
+ZJS  C4     C5     DOUB  Y  N  18  
+ZJS  C4     N3     SING  Y  N  19  
+ZJS  C5     C6     SING  Y  N  20  
+ZJS  N3     C2     DOUB  Y  N  21  
+ZJS  C6     N6     SING  N  N  22  
+ZJS  C6     N1     DOUB  Y  N  23  
+ZJS  C2     N1     SING  Y  N  24  
+ZJS  N6     C12    SING  N  N  25  
+ZJS  C15    C14    SING  N  N  26  
+ZJS  C12    C13    SING  N  N  27  
+ZJS  C14    C13    DOUB  N  N  28  
+ZJS  C14    C16    SING  N  N  29  
+ZJS  P      O1     SING  N  N  30  
+ZJS  OP1    H1     SING  N  N  31  
+ZJS  "C5'"  H2     SING  N  N  32  
+ZJS  "C5'"  H3     SING  N  N  33  
+ZJS  "C4'"  H4     SING  N  N  34  
+ZJS  "C3'"  H5     SING  N  N  35  
+ZJS  "O3'"  H6     SING  N  N  36  
+ZJS  "C2'"  H7     SING  N  N  37  
+ZJS  "O2'"  H8     SING  N  N  38  
+ZJS  "C1'"  H9     SING  N  N  39  
+ZJS  C8     H10    SING  N  N  40  
+ZJS  N6     H11    SING  N  N  41  
+ZJS  C2     H12    SING  N  N  42  
+ZJS  C12    H13    SING  N  N  43  
+ZJS  C12    H14    SING  N  N  44  
+ZJS  C13    H15    SING  N  N  45  
+ZJS  C15    H18    SING  N  N  46  
+ZJS  C15    H19    SING  N  N  47  
+ZJS  C15    H20    SING  N  N  48  
+ZJS  C16    H21    SING  N  N  49  
+ZJS  C16    H22    SING  N  N  50  
+ZJS  C16    H23    SING  N  N  51  
+ZJS  O1     H24    SING  N  N  52  
+#   #
+loop_
+_pdbx_chem_comp_descriptor.comp_id
+_pdbx_chem_comp_descriptor.type
+_pdbx_chem_comp_descriptor.program
+_pdbx_chem_comp_descriptor.program_version
+_pdbx_chem_comp_descriptor.descriptor
+ZJS  SMILES            ACDLabs               12.01  "C/C(C)=C\CNc1ncnc2c1ncn2C1OC(COP(=O)(O)O)C(O)C1O"  
+ZJS  InChI             InChI                 1.03   "InChI=1S/C15H22N5O7P/c1-8(2)3-4-16-13-10-14(18-6-17-13)20(7-19-10)15-12(22)11(21)9(27-15)5-26-28(23,24)25/h3,6-7,9,11-12,15,21-22H,4-5H2,1-2H3,(H,16,17,18)(H2,23,24,25)/t9-,11-,12-,15-/m1/s1"  
+ZJS  InChIKey          InChI                 1.03   DUISZFLWBAPRBR-SDBHATRESA-N  
+ZJS  SMILES_CANONICAL  CACTVS                3.385  "CC(C)=CCNc1ncnc2n(cnc12)[C@@H]3O[C@H](CO[P](O)(O)=O)[C@@H](O)[C@H]3O"  
+ZJS  SMILES            CACTVS                3.385  "CC(C)=CCNc1ncnc2n(cnc12)[CH]3O[CH](CO[P](O)(O)=O)[CH](O)[CH]3O"  
+ZJS  SMILES_CANONICAL  "OpenEye OEToolkits"  2.0.7  "CC(=CCNc1c2c(ncn1)n(cn2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O)C"  
+ZJS  SMILES            "OpenEye OEToolkits"  2.0.7  "CC(=CCNc1c2c(ncn1)n(cn2)C3C(C(C(O3)COP(=O)(O)O)O)O)C"  
+#   #
+loop_
+_pdbx_chem_comp_identifier.comp_id
+_pdbx_chem_comp_identifier.type
+_pdbx_chem_comp_identifier.program
+_pdbx_chem_comp_identifier.program_version
+_pdbx_chem_comp_identifier.identifier
+ZJS  "SYSTEMATIC NAME"  ACDLabs               12.01  "N-(3-methylbut-2-en-1-yl)adenosine 5'-(dihydrogen phosphate)"  
+ZJS  "SYSTEMATIC NAME"  "OpenEye OEToolkits"  2.0.7  "[(2~{R},3~{S},4~{R},5~{R})-5-[6-(3-methylbut-2-enylamino)purin-9-yl]-3,4-bis(oxidanyl)oxolan-2-yl]methyl dihydrogen phosphate"  
+#   #
+loop_
+_pdbx_chem_comp_audit.comp_id
+_pdbx_chem_comp_audit.action_type
+_pdbx_chem_comp_audit.date
+_pdbx_chem_comp_audit.processing_site
+ZJS  "Create component"  2021-04-30  RCSB  
+ZJS  "Initial release"   2021-09-15  RCSB  
+##

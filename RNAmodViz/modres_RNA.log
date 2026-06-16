@@ -1,0 +1,226 @@
+2026-06-16 10:36:53,024 - INFO - Configuring workspace and file systems.....
+2026-06-16 10:36:53,024 - INFO - Work directory name:/home/labuser/Projects/shrikant_libs/modres_helper/
+2026-06-16 10:36:53,024 - INFO - Modified nucleotides directory name: /home/labuser/Projects/shrikant_libs/modres_helper/CCD_Modified_Nucleotides
+2026-06-16 10:36:53,024 - INFO - Output 2D figures directory name: /home/labuser/Projects/shrikant_libs/modres_helper/figures 
+
+2026-06-16 10:36:53,031 - INFO - UR3: built from SMILES
+2026-06-16 10:36:53,031 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/UR3.png
+2026-06-16 10:36:53,060 - INFO - UR3: OK
+2026-06-16 10:36:53,061 - INFO - OMG: built from SMILES
+2026-06-16 10:36:53,061 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/OMG.png
+2026-06-16 10:36:53,090 - INFO - OMG: OK
+2026-06-16 10:36:53,091 - INFO - GDP: built from SMILES
+2026-06-16 10:36:53,091 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/GDP.png
+2026-06-16 10:36:53,117 - INFO - GDP: OK
+2026-06-16 10:36:53,118 - INFO - RPC: built from SMILES
+2026-06-16 10:36:53,118 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/RPC.png
+2026-06-16 10:36:53,144 - INFO - RPC: OK
+2026-06-16 10:36:53,145 - INFO - A2M: built from SMILES
+2026-06-16 10:36:53,145 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/A2M.png
+2026-06-16 10:36:53,173 - INFO - A2M: OK
+2026-06-16 10:36:53,174 - INFO - G5J: built from SMILES
+2026-06-16 10:36:53,174 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/G5J.png
+2026-06-16 10:36:53,200 - INFO - G5J: OK
+2026-06-16 10:36:53,201 - INFO - AET: built from SMILES
+2026-06-16 10:36:53,201 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/AET.png
+2026-06-16 10:36:53,228 - INFO - AET: OK
+2026-06-16 10:36:53,229 - INFO - 5FU: built from SMILES
+2026-06-16 10:36:53,229 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/5FU.png
+2026-06-16 10:36:53,256 - INFO - 5FU: OK
+2026-06-16 10:36:53,257 - INFO - FHU: built from SMILES
+2026-06-16 10:36:53,257 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/FHU.png
+2026-06-16 10:36:53,284 - INFO - FHU: OK
+2026-06-16 10:36:53,285 - INFO - PST: built from SMILES
+2026-06-16 10:36:53,285 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/PST.png
+2026-06-16 10:36:53,310 - INFO - PST: OK
+2026-06-16 10:36:53,311 - INFO - 6IA: built from SMILES
+2026-06-16 10:36:53,311 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/6IA.png
+2026-06-16 10:36:53,336 - INFO - 6IA: OK
+2026-06-16 10:36:53,338 - WARNING - N5M.cif sanitization failed: Explicit valence for atom # 1 N, 4, is greater than permitted
+2026-06-16 10:36:53,338 - INFO - N5M: built from SMILES
+2026-06-16 10:36:53,338 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/N5M.png
+2026-06-16 10:36:53,364 - INFO - N5M: OK
+2026-06-16 10:36:53,365 - INFO - 4SU: built from SMILES
+2026-06-16 10:36:53,365 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/4SU.png
+2026-06-16 10:36:53,391 - INFO - 4SU: OK
+2026-06-16 10:36:53,392 - INFO - 2MG: built from SMILES
+2026-06-16 10:36:53,392 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/2MG.png
+2026-06-16 10:36:53,418 - INFO - 2MG: OK
+2026-06-16 10:36:53,419 - INFO - 8AN: built from SMILES
+2026-06-16 10:36:53,419 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/8AN.png
+2026-06-16 10:36:53,445 - INFO - 8AN: OK
+2026-06-16 10:36:53,447 - INFO - T39: built from SMILES
+2026-06-16 10:36:53,447 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/T39.png
+2026-06-16 10:36:53,477 - INFO - T39: OK
+2026-06-16 10:36:53,478 - INFO - ONE: built from SMILES
+2026-06-16 10:36:53,478 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/ONE.png
+2026-06-16 10:36:53,505 - INFO - ONE: OK
+2026-06-16 10:36:53,506 - INFO - C5L: built from SMILES
+2026-06-16 10:36:53,506 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/C5L.png
+2026-06-16 10:36:53,532 - INFO - C5L: OK
+2026-06-16 10:36:53,533 - INFO - 1RN: built from SMILES
+2026-06-16 10:36:53,534 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/1RN.png
+2026-06-16 10:36:53,560 - INFO - 1RN: OK
+2026-06-16 10:36:53,561 - INFO - A23: built from SMILES
+2026-06-16 10:36:53,561 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/A23.png
+2026-06-16 10:36:53,588 - INFO - A23: OK
+2026-06-16 10:36:53,589 - INFO - P5P: built from SMILES
+2026-06-16 10:36:53,589 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/P5P.png
+2026-06-16 10:36:53,617 - INFO - P5P: OK
+2026-06-16 10:36:53,618 - INFO - UBD: built from SMILES
+2026-06-16 10:36:53,618 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/UBD.png
+2026-06-16 10:36:53,646 - INFO - UBD: OK
+2026-06-16 10:36:53,647 - INFO - ZJS: built from SMILES
+2026-06-16 10:36:53,648 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/ZJS.png
+2026-06-16 10:36:53,677 - INFO - ZJS: OK
+2026-06-16 10:36:53,678 - INFO - SSU: built from SMILES
+2026-06-16 10:36:53,678 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/SSU.png
+2026-06-16 10:36:53,706 - INFO - SSU: OK
+2026-06-16 10:36:53,708 - INFO - 1MG: built from SMILES
+2026-06-16 10:36:53,708 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/1MG.png
+2026-06-16 10:36:53,735 - INFO - 1MG: OK
+2026-06-16 10:36:53,736 - INFO - OMU: built from SMILES
+2026-06-16 10:36:53,736 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/OMU.png
+2026-06-16 10:36:53,761 - INFO - OMU: OK
+2026-06-16 10:36:53,762 - INFO - 8AZ: built from SMILES
+2026-06-16 10:36:53,762 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/8AZ.png
+2026-06-16 10:36:53,790 - INFO - 8AZ: OK
+2026-06-16 10:36:53,791 - INFO - YYG: built from SMILES
+2026-06-16 10:36:53,791 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/YYG.png
+2026-06-16 10:36:53,820 - INFO - YYG: OK
+2026-06-16 10:36:53,822 - INFO - QUO: built from SMILES
+2026-06-16 10:36:53,822 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/QUO.png
+2026-06-16 10:36:53,850 - INFO - QUO: OK
+2026-06-16 10:36:53,851 - INFO - 5MU: built from SMILES
+2026-06-16 10:36:53,851 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/5MU.png
+2026-06-16 10:36:53,878 - INFO - 5MU: OK
+2026-06-16 10:36:53,879 - INFO - T6A: built from SMILES
+2026-06-16 10:36:53,879 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/T6A.png
+2026-06-16 10:36:53,908 - INFO - T6A: OK
+2026-06-16 10:36:53,909 - INFO - 7MG: built from SMILES
+2026-06-16 10:36:53,909 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/7MG.png
+2026-06-16 10:36:53,938 - INFO - 7MG: OK
+2026-06-16 10:36:53,939 - INFO - 2MA: built from SMILES
+2026-06-16 10:36:53,939 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/2MA.png
+2026-06-16 10:36:53,966 - INFO - 2MA: OK
+2026-06-16 10:36:53,967 - INFO - 6MZ: built from SMILES
+2026-06-16 10:36:53,967 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/6MZ.png
+2026-06-16 10:36:53,994 - INFO - 6MZ: OK
+2026-06-16 10:36:53,995 - INFO - 23G: built from SMILES
+2026-06-16 10:36:53,995 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/23G.png
+2026-06-16 10:36:54,026 - INFO - 23G: OK
+2026-06-16 10:36:54,027 - INFO - A9Z: built from SMILES
+2026-06-16 10:36:54,027 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/A9Z.png
+2026-06-16 10:36:54,056 - INFO - A9Z: OK
+2026-06-16 10:36:54,057 - INFO - GTP: built from SMILES
+2026-06-16 10:36:54,057 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/GTP.png
+2026-06-16 10:36:54,085 - INFO - GTP: OK
+2026-06-16 10:36:54,086 - INFO - U34: built from SMILES
+2026-06-16 10:36:54,086 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/U34.png
+2026-06-16 10:36:54,113 - INFO - U34: OK
+2026-06-16 10:36:54,114 - INFO - IU: built from SMILES
+2026-06-16 10:36:54,114 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/IU.png
+2026-06-16 10:36:54,141 - INFO - IU: OK
+2026-06-16 10:36:54,142 - INFO - PSU: built from SMILES
+2026-06-16 10:36:54,142 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/PSU.png
+2026-06-16 10:36:54,168 - INFO - PSU: OK
+2026-06-16 10:36:54,169 - INFO - 6OO: built from SMILES
+2026-06-16 10:36:54,169 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/6OO.png
+2026-06-16 10:36:54,195 - INFO - 6OO: OK
+2026-06-16 10:36:54,196 - INFO - GDO: built from SMILES
+2026-06-16 10:36:54,196 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/GDO.png
+2026-06-16 10:36:54,223 - INFO - GDO: OK
+2026-06-16 10:36:54,224 - INFO - CTP: built from SMILES
+2026-06-16 10:36:54,225 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/CTP.png
+2026-06-16 10:36:54,251 - INFO - CTP: OK
+2026-06-16 10:36:54,252 - INFO - PGP: built from SMILES
+2026-06-16 10:36:54,252 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/PGP.png
+2026-06-16 10:36:54,283 - INFO - PGP: OK
+2026-06-16 10:36:54,285 - INFO - G3A: built from SMILES
+2026-06-16 10:36:54,285 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/G3A.png
+2026-06-16 10:36:54,314 - INFO - G3A: OK
+2026-06-16 10:36:54,315 - INFO - UD5: built from SMILES
+2026-06-16 10:36:54,315 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/UD5.png
+2026-06-16 10:36:54,345 - INFO - UD5: OK
+2026-06-16 10:36:54,346 - INFO - PYO: built from SMILES
+2026-06-16 10:36:54,346 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/PYO.png
+2026-06-16 10:36:54,377 - INFO - PYO: OK
+2026-06-16 10:36:54,378 - INFO - 5BU: built from SMILES
+2026-06-16 10:36:54,378 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/5BU.png
+2026-06-16 10:36:54,405 - INFO - 5BU: OK
+2026-06-16 10:36:54,406 - INFO - M2G: built from SMILES
+2026-06-16 10:36:54,406 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/M2G.png
+2026-06-16 10:36:54,434 - INFO - M2G: OK
+2026-06-16 10:36:54,435 - WARNING - G7M.cif sanitization failed: Explicit valence for atom # 15 N, 4, is greater than permitted
+2026-06-16 10:36:54,436 - INFO - G7M: built from SMILES
+2026-06-16 10:36:54,436 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/G7M.png
+2026-06-16 10:36:54,462 - INFO - G7M: OK
+2026-06-16 10:36:54,463 - INFO - N7X: built from SMILES
+2026-06-16 10:36:54,464 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/N7X.png
+2026-06-16 10:36:54,495 - INFO - N7X: OK
+2026-06-16 10:36:54,496 - INFO - MIA: built from SMILES
+2026-06-16 10:36:54,496 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/MIA.png
+2026-06-16 10:36:54,523 - INFO - MIA: OK
+2026-06-16 10:36:54,525 - INFO - 5MC: built from SMILES
+2026-06-16 10:36:54,525 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/5MC.png
+2026-06-16 10:36:54,552 - INFO - 5MC: OK
+2026-06-16 10:36:54,553 - INFO - OMC: built from SMILES
+2026-06-16 10:36:54,553 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/OMC.png
+2026-06-16 10:36:54,580 - INFO - OMC: OK
+2026-06-16 10:36:54,581 - INFO - DG: built from SMILES
+2026-06-16 10:36:54,581 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/DG.png
+2026-06-16 10:36:54,611 - INFO - DG: OK
+2026-06-16 10:36:54,612 - INFO - 12A: built from SMILES
+2026-06-16 10:36:54,613 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/12A.png
+2026-06-16 10:36:54,640 - INFO - 12A: OK
+2026-06-16 10:36:54,642 - INFO - AVC: built from SMILES
+2026-06-16 10:36:54,642 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/AVC.png
+2026-06-16 10:36:54,670 - INFO - AVC: OK
+2026-06-16 10:36:54,671 - INFO - PPU: built from SMILES
+2026-06-16 10:36:54,671 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/PPU.png
+2026-06-16 10:36:54,697 - INFO - PPU: OK
+2026-06-16 10:36:54,698 - INFO - FOU: built from SMILES
+2026-06-16 10:36:54,698 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/FOU.png
+2026-06-16 10:36:54,723 - INFO - FOU: OK
+2026-06-16 10:36:54,724 - INFO - U37: built from SMILES
+2026-06-16 10:36:54,724 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/U37.png
+2026-06-16 10:36:54,750 - INFO - U37: OK
+2026-06-16 10:36:54,751 - INFO - H2U: built from SMILES
+2026-06-16 10:36:54,751 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/H2U.png
+2026-06-16 10:36:54,776 - INFO - H2U: OK
+2026-06-16 10:36:54,777 - INFO - CCC: built from SMILES
+2026-06-16 10:36:54,777 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/CCC.png
+2026-06-16 10:36:54,803 - INFO - CCC: OK
+2026-06-16 10:36:54,804 - INFO - RFJ: built from SMILES
+2026-06-16 10:36:54,804 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/RFJ.png
+2026-06-16 10:36:54,830 - INFO - RFJ: OK
+2026-06-16 10:36:54,831 - INFO - CM0: built from SMILES
+2026-06-16 10:36:54,831 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/CM0.png
+2026-06-16 10:36:54,859 - INFO - CM0: OK
+2026-06-16 10:36:54,860 - INFO - SUR: built from SMILES
+2026-06-16 10:36:54,860 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/SUR.png
+2026-06-16 10:36:54,886 - INFO - SUR: OK
+2026-06-16 10:36:54,888 - WARNING - GTG.cif sanitization failed: Explicit valence for atom # 10 N, 4, is greater than permitted
+2026-06-16 10:36:54,888 - INFO - GTG: built from SMILES
+2026-06-16 10:36:54,889 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/GTG.png
+2026-06-16 10:36:54,917 - INFO - GTG: OK
+2026-06-16 10:36:54,919 - INFO - 70U: built from SMILES
+2026-06-16 10:36:54,919 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/70U.png
+2026-06-16 10:36:54,944 - INFO - 70U: OK
+2026-06-16 10:36:54,946 - WARNING - N79.cif sanitization failed: Explicit valence for atom # 8 B, 4, is greater than permitted
+2026-06-16 10:36:54,946 - INFO - N79: built from SMILES
+2026-06-16 10:36:54,946 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/N79.png
+2026-06-16 10:36:54,974 - INFO - N79: OK
+2026-06-16 10:36:54,976 - INFO - 1MA: built from SMILES
+2026-06-16 10:36:54,976 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/1MA.png
+2026-06-16 10:36:55,001 - INFO - 1MA: OK
+2026-06-16 10:36:55,002 - INFO - FMU: built from SMILES
+2026-06-16 10:36:55,002 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/FMU.png
+2026-06-16 10:36:55,028 - INFO - FMU: OK
+2026-06-16 10:36:55,029 - INFO - 6NW: built from SMILES
+2026-06-16 10:36:55,029 - INFO - Writing figure: /home/labuser/Projects/shrikant_libs/modres_helper/figures/6NW.png
+2026-06-16 10:36:55,055 - INFO - 6NW: OK
+2026-06-16 10:36:55,058 - INFO - Wrote metadata to /home/labuser/Projects/shrikant_libs/modres_helper/modified_nucleotide_catalog.csv file
+
+2026-06-16 10:36:55,059 - INFO - Completed processing. Success=71, Failed=0
+
